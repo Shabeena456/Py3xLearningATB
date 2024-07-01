@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task">
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_058.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX_03062024/Lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/EX_03062024/Lab_001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Task001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Task001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Task002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Task002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_038.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_039.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_040.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_040.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_041.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_042.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_042.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_043.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_044.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_045.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_046.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_046.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_047.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab_048.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_053.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_053.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,15 +67,24 @@
     "Python.Lab_047.executor": "Run",
     "Python.Lab_048.executor": "Run",
     "Python.Lab_049.executor": "Run",
+    "Python.Lab_051.executor": "Run",
     "Python.Lab_053.executor": "Run",
+    "Python.Lab_054.executor": "Run",
+    "Python.Lab_055.executor": "Run",
+    "Python.Lab_057.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
 }]]></component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+    <option name="mySupportGeventDebugging" value="true" />
+    <option name="myDropIntoDebuggerOnFailedTests" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\PycharmProjects\Py3xLearningATB\ex01_June" />
@@ -282,5 +274,26 @@
     <MESSAGE value="adding" />
     <MESSAGE value="adding new Task" />
     <option name="LAST_COMMIT_MESSAGE" value="adding new Task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_057.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_057.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_057.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

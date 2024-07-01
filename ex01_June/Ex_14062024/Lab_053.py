@@ -31,7 +31,7 @@ match numbers:
         print("No idea")
 
 
-#         def allowed_to_attend_python_class(name):
+# def allowed_to_attend_python_class(name):
 #
 # match name:
 #
