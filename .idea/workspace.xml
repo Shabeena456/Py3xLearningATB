@@ -5,29 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task">
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_12062024/Task_002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_July/22072024/Lab179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_July/22072024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_July/22072024/test_Lab180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_July/22072024/test_Lab183.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_July/24072024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_July/24072024/test_Lab184.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab019.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/EX_03062024/Lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/EX_03062024/Lab_001.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex01_June/Ex_10062024/Task002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Task002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_058.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_17062024/Lab_058.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,49 +50,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_Lab180.test_addition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_054.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_055.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_070.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_002.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_Lab180.test_addition.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab_001.executor": "Run",
+    "Python.Lab_038.executor": "Run",
+    "Python.Lab_039.executor": "Run",
+    "Python.Lab_041.executor": "Run",
+    "Python.Lab_043.executor": "Run",
+    "Python.Lab_045 (1).executor": "Debug",
+    "Python.Lab_045.executor": "Run",
+    "Python.Lab_046.executor": "Run",
+    "Python.Lab_047.executor": "Run",
+    "Python.Lab_048.executor": "Run",
+    "Python.Lab_049.executor": "Run",
+    "Python.Lab_051.executor": "Run",
+    "Python.Lab_053.executor": "Run",
+    "Python.Lab_054.executor": "Run",
+    "Python.Lab_055.executor": "Run",
+    "Python.Lab_057.executor": "Run",
+    "Python.Lab_058.executor": "Run",
+    "Python.Lab_059.executor": "Run",
+    "Python.Lab_060.executor": "Run",
+    "Python.Lab_062.executor": "Run",
+    "Python.Lab_063.executor": "Run",
+    "Python.Lab_064.executor": "Run",
+    "Python.Lab_065.executor": "Run",
+    "Python.Lab_066.executor": "Run",
+    "Python.Lab_067.executor": "Run",
+    "Python.Lab_068.executor": "Run",
+    "Python.Lab_069.executor": "Run",
+    "Python.Lab_070.executor": "Run",
+    "Python.Task001.executor": "Run",
+    "Python.Task002.executor": "Run",
+    "Python.Task_002.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
     <option name="mySupportGeventDebugging" value="true" />
@@ -121,7 +108,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab_041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py3xLearningATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_12062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01_June/Ex_05062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_12062024/Lab_041.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_045 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py3xLearningATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_12062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01_June/Ex_12062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_12062024/Lab_043.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_045.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab_045 (1)" />
+        <item itemvalue="Python.Lab002" />
         <item itemvalue="Python tests.Python tests for test_Lab180.test_addition" />
         <item itemvalue="Python.Lab_057" />
         <item itemvalue="Python.Lab_045" />
-        <item itemvalue="Python.Lab_043" />
-        <item itemvalue="Python.Lab_041" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719762980997</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1726163766284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726163766284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -315,6 +310,16 @@
           <url>file://$PROJECT_DIR$/ex01_June/Ex_14062024/Lab_057.py</url>
           <line>5</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_045.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex01_June/Ex_12062024/Lab_045.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
