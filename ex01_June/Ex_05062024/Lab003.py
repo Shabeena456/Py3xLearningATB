@@ -8,3 +8,4 @@
 
 print("Hello", "World", 123, True, 3.14)
 print("Hi, My name is Shabeena", "Raj", sep=" - ")
+print("hello", "my name is shabeena", 123 ,True, sep= "\n")
