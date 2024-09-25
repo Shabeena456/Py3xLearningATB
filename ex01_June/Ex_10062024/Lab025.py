@@ -1,6 +1,6 @@
 # Literals
 # var_name = variable_value
-name = "Pramod"
+name = "Pramodnnmmm"
 # var_name -> Identifier
 # var_val -> Literals
 # Literals are the actual values assigned
