@@ -1,0 +1,197 @@
+Index: ex01_June/Ex_07062024/Lab022.py
+===================================================================
+diff --git a/ex01_June/Ex_07062024/Lab022.py b/ex01_June/Ex_07062024/Lab022.py
+deleted file mode 100644
+--- a/ex01_June/Ex_07062024/Lab022.py	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
++++ /dev/null	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
+@@ -1,19 +0,0 @@
+-val = None
+-#val = val+1 # unsupported operand type(s) for +: 'NoneType' and 'int'
+-# Data Type  - NoneType
+-print(val)
+-# Nothing
+-# None is not a default value
+-# None is not 0.
+-# None is not an empty string.
+-# None is not the same as False.
+-
+-name = "" # empty String - memory allocated
+-print(id(name))
+-name = None
+-print(type(name)) # NoneType
+-print(id(name))
+-print(name)
+-name = "Amit"
+-print(name)
+-print(id(name))
+\ No newline at end of file
+Index: ex01_June/Ex_07062024/Lab023.py
+===================================================================
+diff --git a/ex01_June/Ex_07062024/Lab023.py b/ex01_June/Ex_07062024/Lab023.py
+deleted file mode 100644
+--- a/ex01_June/Ex_07062024/Lab023.py	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
++++ /dev/null	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
+@@ -1,35 +0,0 @@
+-# List - Shopping List
+-# milk, bread, butter, poha
+-# 1. Add item
+-# 2. Remove item
+-# 3. Update item
+-# 4. View item
+-# 5. Exit
+-
+-
+-shopping_list = ["milk", "bread", "butter", "poha"]
+-print(shopping_list)
+-print(len(shopping_list))
+-print(shopping_list[0])
+-print(shopping_list[-1])
+-
+-shopping_list.append("curd") # Add item in the end
+-print(shopping_list)
+-shopping_list.insert(3, "jam") # Add item in the middle
+-print(shopping_list)
+-
+-shopping_list.extend(["chips", "salt"]) # Add multiple items in the end
+-print(shopping_list)
+-
+-shopping_list.remove("bread") # Remove item
+-print(shopping_list.pop())
+-print(shopping_list.index("butter"))
+-shopping_list.reverse()
+-shopping_list.sort()
+-print(shopping_list)
+-shopping_list[0] ="Pramod"
+-print(shopping_list)
+-
+-#
+-# my_list = [1, 2, 3, 4, True, 3.14, "Pramod"]
+-# print(type(my_list))  # <class 'list'>
+\ No newline at end of file
+Index: ex01_June/Ex_07062024/Lab020.py
+===================================================================
+diff --git a/ex01_June/Ex_07062024/Lab020.py b/ex01_June/Ex_07062024/Lab020.py
+deleted file mode 100644
+--- a/ex01_June/Ex_07062024/Lab020.py	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
++++ /dev/null	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
+@@ -1,27 +0,0 @@
+-# In built Functions -
+-# Function -> Repeat a task - You can use a function.
+-# print(),input, type(), format(), max, min, id(), sum(), avg()
+-
+-# Strings
+-name = "Amit" # 0 to 3
+-# 0,1,2,3
+-# A,m,i,t
+-print(name)
+-print(type(name))
+-print(id(name)) # id -> memory address where it is stored 4309895152
+-print(len(name))
+-# length of string ( 1 )
+-# name = name.upper()
+-# print(name)
+-
+-# name = name.lower()
+-# print(name)
+-
+-a = name.count('A')
+-print(a)
+-
+-# print(name[4]) # string index out of range
+-print(name[3]) # string index out of range
+-
+-# Python - Immutable - that can't be changed
+-# name[0] = "P" # 'str' object does not support item assignment
+\ No newline at end of file
+Index: ex01_June/Ex_07062024/Lab021.py
+===================================================================
+diff --git a/ex01_June/Ex_07062024/Lab021.py b/ex01_June/Ex_07062024/Lab021.py
+deleted file mode 100644
+--- a/ex01_June/Ex_07062024/Lab021.py	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
++++ /dev/null	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
+@@ -1,7 +0,0 @@
+-name = "This is a Big line"
+-print(len(name))
+-print(type(name))
+-print(name[14])
+-print(name[-1])
+-print(name[-2])
+-print(name[-10])
+\ No newline at end of file
+Index: ex01_June/Ex_07062024/Lab024.py
+===================================================================
+diff --git a/ex01_June/Ex_07062024/Lab024.py b/ex01_June/Ex_07062024/Lab024.py
+deleted file mode 100644
+--- a/ex01_June/Ex_07062024/Lab024.py	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
++++ /dev/null	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
+@@ -1,2 +0,0 @@
+-shopping_list = ["milk", "bread", "butter", "poha"]
+-print(shopping_list)
+\ No newline at end of file
+Index: ex01_June/Ex_07062024/Lab019.py
+===================================================================
+diff --git a/ex01_June/Ex_07062024/Lab019.py b/ex01_June/Ex_07062024/Lab019.py
+deleted file mode 100644
+--- a/ex01_June/Ex_07062024/Lab019.py	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
++++ /dev/null	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
+@@ -1,23 +0,0 @@
+-# Format String
+-print(2 * 1)
+-num = 90
+-print(f"The number is {num * 2}")
+-print(f"The number is {num * 3}")
+-
+-num = 5
+-print(f"{num}x1={num}")
+-print(f"{num}x2={num * 2}")
+-print(f"{num}x3={num * 3}")
+-print(f"{num}x10={num * 10}")
+-
+-n=6
+-print(f"{n} x 1= {n}")
+-print(f"{n} x 2= {n * 2}")
+-print(f"{n} x 3= {n * 3}")
+-print(f"{n} * 4= {n * 4}")
+-print(f"{n} * 5= {n * 5}")
+-
+-b = 1
+-print(f"{b}x1={b}")
+-print("2x{}={},{}".format(b, b * 2, 3))
+-# This is just use to showcase the output.
+\ No newline at end of file
+Index: ex01_June/Ex_07062024/Lab018.py
+===================================================================
+diff --git a/ex01_June/Ex_07062024/Lab018.py b/ex01_June/Ex_07062024/Lab018.py
+deleted file mode 100644
+--- a/ex01_June/Ex_07062024/Lab018.py	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
++++ /dev/null	(revision a8516cede889dc8f9e66b13f25c7c423e838a75f)
+@@ -1,28 +0,0 @@
+-# Strings
+-# Bunch of Char
+-# '', "" , """
+-name = 'Harry'
+-print(name)
+-name = "Harry"
+-print(name)
+-name = """Harry, Is is Good person
+-He love to walk alone, He has a dog
+-....
+-....
+-
+-....
+-"""
+-print(name)
+-
+-# Raw String
+-dir = r'C:\nomedir\some dir'
+-print(dir)
+-
+-# Format of the String
+-first_name = "Harry"
+-last_name = "Potter"
+-print(first_name + " " + last_name)
+-print(first_name, last_name)
+-# f -> formatting - it will replace the values of the variables
+-#{} -> placeholders
+-print(f'Your Full name is {first_name} {last_name}')
+\ No newline at end of file
