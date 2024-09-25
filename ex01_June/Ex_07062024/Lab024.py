@@ -1,5 +1,2 @@
-# Escape Seq
-print("Hello \"World\"  \"lucky\" ")
-print("Hello \nWorld")
-print("Hello \tWorld")
-print("Hello \bWorld")
+shopping_list = ["milk", "bread", "butter", "poha"]
+print(shopping_list)
