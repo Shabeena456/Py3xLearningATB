@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task" />
+    <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab023.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab024.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,69 +54,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_Lab180.test_addition.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab021.executor": "Run",
-    "Python.Lab022.executor": "Run",
-    "Python.Lab_001.executor": "Run",
-    "Python.Lab_038.executor": "Run",
-    "Python.Lab_039.executor": "Run",
-    "Python.Lab_041.executor": "Run",
-    "Python.Lab_043.executor": "Run",
-    "Python.Lab_045 (1).executor": "Debug",
-    "Python.Lab_045.executor": "Run",
-    "Python.Lab_046.executor": "Run",
-    "Python.Lab_047.executor": "Run",
-    "Python.Lab_048.executor": "Run",
-    "Python.Lab_049.executor": "Run",
-    "Python.Lab_051.executor": "Debug",
-    "Python.Lab_053.executor": "Run",
-    "Python.Lab_054.executor": "Run",
-    "Python.Lab_055.executor": "Run",
-    "Python.Lab_057.executor": "Run",
-    "Python.Lab_058.executor": "Run",
-    "Python.Lab_059.executor": "Run",
-    "Python.Lab_060.executor": "Run",
-    "Python.Lab_062.executor": "Run",
-    "Python.Lab_063.executor": "Run",
-    "Python.Lab_064.executor": "Run",
-    "Python.Lab_065.executor": "Run",
-    "Python.Lab_066.executor": "Run",
-    "Python.Lab_067.executor": "Run",
-    "Python.Lab_068.executor": "Run",
-    "Python.Lab_069.executor": "Run",
-    "Python.Lab_070.executor": "Debug",
-    "Python.Task001.executor": "Run",
-    "Python.Task002.executor": "Run",
-    "Python.Task_002.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Asus/PycharmProjects/Py3xLearningATB/ex01_June/Ex_07062024",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab180.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_045 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab_045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_051.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab_053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_063.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_065.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_066.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_067.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_069.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_070.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Task001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_002.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/PycharmProjects/Py3xLearningATB/ex01_June/Ex_07062024&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
     <option name="mySupportGeventDebugging" value="true" />
@@ -233,10 +244,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab002" />
         <item itemvalue="Python.Lab013" />
         <item itemvalue="Python.Lab005" />
         <item itemvalue="Python.Lab_070" />
-        <item itemvalue="Python.Lab002" />
         <item itemvalue="Python.Lab_051" />
       </list>
     </recent_temporary>
@@ -329,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727270124392</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1727271612766</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727271612766</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
