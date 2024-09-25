@@ -2,6 +2,7 @@
 name = "Pramod"
 print(type(name))
 
+
 # variable name should not start with number
 # 123 =345 - variable names
 
@@ -15,7 +16,12 @@ print(type(name))
 # @ = 123
 # $ = 344
 _ = 123
-_name = "pramod"
+print(_)
+_name = "Raj"
+print(_name)
+
+
+
 # $prampod = "pramod"
 # pramod$ = "Hello"
 
@@ -25,4 +31,5 @@ first_name = "Pramod"
 # Python love the snake case
 varaible_name = "pramod"
 
-long_var_name_is_created_here = "Hello"
+Long_var_name_is_created_here = "Hello Lucky"
+print(Long_var_name_is_created_here)

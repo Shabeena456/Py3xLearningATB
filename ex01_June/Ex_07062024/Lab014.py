@@ -1,22 +1,28 @@
-# int,str,complex,float,bool
+print("Hello World")
+# Commment
+# Varaible
+# Data Types in Python
+# int, str, float, complex, bool
 # int
-a=10
+a = 10
 print(a)
-print(type(a))
+print("-------------")
 # str
-b="hello"
+b = "Hello"
 print(b)
-print(type(b))
-# complex
-c=2+3j
-print(c)
-print(type(c))
+print("-------------")
+
 # float
-d=2.5
+c = 10.5
+print(c)
+print("-------------")
+
+# complex
+d = 10 + 5j
 print(d)
-print(type(d))
+print("-------------")
+
 # bool
-e=True
+e = True
 print(e)
 print(type(e))
-

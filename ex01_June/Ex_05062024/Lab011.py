@@ -15,6 +15,7 @@ print(type(pi))
 
 isMarried = True
 isSantoshMarried = False
+print(type(isMarried))
 
 name = "shabeena"
 name2 = 'shabeena'

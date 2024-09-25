@@ -1,5 +1,5 @@
-# advance type of data type
-# list, tuple, set, Dict -Data Structure- API and Web Automation
+# Advance Data Type in Python
+# List, Tuple, Set, Dict - DS - API and Web Automation.
 
 
 # Take a user input
