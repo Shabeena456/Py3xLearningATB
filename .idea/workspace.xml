@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task">
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,69 +47,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_Lab180.test_addition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_045 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab_045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_051.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab_053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_054.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_055.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_070.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Task001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_002.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/PycharmProjects/Py3xLearningATB/ex01_June/Ex_07062024/Lab026.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_Lab180.test_addition.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab_001.executor": "Run",
+    "Python.Lab_038.executor": "Run",
+    "Python.Lab_039.executor": "Run",
+    "Python.Lab_041.executor": "Run",
+    "Python.Lab_043.executor": "Run",
+    "Python.Lab_045 (1).executor": "Debug",
+    "Python.Lab_045.executor": "Run",
+    "Python.Lab_046.executor": "Run",
+    "Python.Lab_047.executor": "Run",
+    "Python.Lab_048.executor": "Run",
+    "Python.Lab_049.executor": "Run",
+    "Python.Lab_051.executor": "Debug",
+    "Python.Lab_053.executor": "Run",
+    "Python.Lab_054.executor": "Run",
+    "Python.Lab_055.executor": "Run",
+    "Python.Lab_057.executor": "Run",
+    "Python.Lab_058.executor": "Run",
+    "Python.Lab_059.executor": "Run",
+    "Python.Lab_060.executor": "Run",
+    "Python.Lab_062.executor": "Run",
+    "Python.Lab_063.executor": "Run",
+    "Python.Lab_064.executor": "Run",
+    "Python.Lab_065.executor": "Run",
+    "Python.Lab_066.executor": "Run",
+    "Python.Lab_067.executor": "Run",
+    "Python.Lab_068.executor": "Run",
+    "Python.Lab_069.executor": "Run",
+    "Python.Lab_070.executor": "Debug",
+    "Python.Task001.executor": "Run",
+    "Python.Task002.executor": "Run",
+    "Python.Task_002.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Asus/PycharmProjects/Py3xLearningATB/ex01_June/Ex_07062024/Lab026.py",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
     <option name="mySupportGeventDebugging" value="true" />
@@ -124,7 +125,7 @@
       <recent name="C:\Users\Asus\PycharmProjects\Py3xLearningATB\ex01_June" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab002">
+  <component name="RunManager">
     <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py3xLearningATB" />
       <option name="ENV_FILES" value="" />
@@ -349,8 +350,27 @@
       <option name="project" value="LOCAL" />
       <updated>1727273934579</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1727274959497</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727274959497</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding" />
