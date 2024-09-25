@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task">
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_05062024/Lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab019.py" afterDir="false" />
-    </list>
+    <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -338,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727206175003</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1727270124392</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727270124392</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
