@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="738fb37e-d7cd-4fc9-9dda-d6a7f00fc3c7" name="Changes" comment="adding new Task">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_June/Ex_10062024/Lab037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_June/Ex_07062024/Lab025.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +87,14 @@
     "Python.Lab022.executor": "Run",
     "Python.Lab024.executor": "Run",
     "Python.Lab026.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
     "Python.Lab_001.executor": "Run",
     "Python.Lab_038.executor": "Run",
     "Python.Lab_039.executor": "Run",
@@ -376,7 +398,39 @@
       <option name="project" value="LOCAL" />
       <updated>1727280095992</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1727280856930</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727280856931</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1727281156092</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727281156092</updated>
+    </task>
+    <task id="LOCAL-00017" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1727281875712</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727281875713</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adding new Task">
+      <option name="closed" value="true" />
+      <created>1727283132647</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727283132647</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
